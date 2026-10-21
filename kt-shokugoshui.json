@@ -1,6 +1,7 @@
 {
  "work": "続後拾遺和歌集",
  "work_id": "kt-shokugoshui",
+ "repo": "kumoi-no-fumigura/shokugoshui-wakashu",
  "yomi": "しょくごしゅういわかしゅう",
  "category": "勅撰集",
  "kind": "kashu",
@@ -16281,6 +16282,5 @@
    "text": "ゆき積るわかの松原ふりにけりいく代へぬらむ玉津島守",
    "sachu": ""
   }
- ],
- "repo": "kumoi-no-fumigura/shokugoshui-wakashu"
+ ]
 }
